@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-13T14:42:34.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="dCM-54m3ZyUM06DJIDSL" version="12.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-03-13T15:05:55.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="uWVQTTnn5KEvSPNsQnFA" version="12.8.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Current">
-    <mxGraphModel dx="1074" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1074" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="140" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gH591KJr8P-zEo98pc6K-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="360" width="720" height="770" as="geometry" />
+          <mxGeometry x="60" y="370" width="720" height="770" as="geometry" />
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gH591KJr8P-zEo98pc6K-6" target="krTiPob7hp98VSDmPUU5-9">
           <mxGeometry relative="1" as="geometry">
@@ -126,6 +126,9 @@
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-28" value="Calculate Equality" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fJmqL8O2HsT3Kp6ueDjJ-18" value="&lt;div&gt;&lt;span&gt;Matched Patients Page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Displays patient data grouped by FMC MRN that has an equality value &amp;lt; 100%&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="920" width="180" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
