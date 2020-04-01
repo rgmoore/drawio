@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T18:54:15.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="tcp869eOur3bx3pSkoJj" version="12.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-01T18:55:45.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="Asy3WorjltJg4VwcsfWN" version="12.9.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Current">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,18 +89,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="krTiPob7hp98VSDmPUU5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krTiPob7hp98VSDmPUU5-9" target="krTiPob7hp98VSDmPUU5-17" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="krTiPob7hp98VSDmPUU5-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krTiPob7hp98VSDmPUU5-9" target="krTiPob7hp98VSDmPUU5-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="650" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-9" value="Data&lt;br&gt;Change" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="560" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="krTiPob7hp98VSDmPUU5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krTiPob7hp98VSDmPUU5-11" target="krTiPob7hp98VSDmPUU5-16" edge="1">
+        <mxCell id="krTiPob7hp98VSDmPUU5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krTiPob7hp98VSDmPUU5-11" target="krTiPob7hp98VSDmPUU5-16" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="720" as="targetPoint" />
+            <mxPoint x="640" y="730" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="640" y="700" />
+              <mxPoint x="640" y="710" />
             </Array>
+            <mxPoint x="640" y="650" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-11" value="Data&lt;br&gt;Change" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -110,13 +113,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-16" value="Match Items by FMC MRN&lt;br&gt;&amp;amp;&lt;br&gt;Org" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="670" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krTiPob7hp98VSDmPUU5-17" target="krTiPob7hp98VSDmPUU5-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-17" value="FMC MRN Lookup&lt;br&gt;*Using EMPI service&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="660" width="150" height="80" as="geometry" />
+          <mxGeometry x="125" y="670" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krTiPob7hp98VSDmPUU5-0" target="krTiPob7hp98VSDmPUU5-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -125,7 +128,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-28" value="Calculate Equality for Demographics and Insurance&lt;br&gt;100% if comparison fields are all equal&lt;br&gt;0% if matches are different" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="265" y="800" width="270" height="90" as="geometry" />
+          <mxGeometry x="265" y="810" width="270" height="90" as="geometry" />
         </mxCell>
         <mxCell id="fJmqL8O2HsT3Kp6ueDjJ-18" value="&lt;div&gt;&lt;span&gt;Matched Patients Page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Displays matched patient data grouped by FMC MRN that has an equality value &amp;lt; 100%.&amp;nbsp; For each patient demographics and insurance item allows users to select to use the Acumen source, eCube source, or Ignore.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="130" y="940" width="240" height="140" as="geometry" />
