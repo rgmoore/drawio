@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-01T18:51:56.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="ALR6e7LLLlMHcFsOIMpP" version="12.9.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-04-01T18:54:15.439Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="tcp869eOur3bx3pSkoJj" version="12.9.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Current">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="100" y="180" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="gH591KJr8P-zEo98pc6K-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="60" y="370" width="720" height="770" as="geometry" />
+          <mxGeometry x="60" y="370" width="720" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="gH591KJr8P-zEo98pc6K-6" target="krTiPob7hp98VSDmPUU5-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -115,8 +115,8 @@
         <mxCell id="krTiPob7hp98VSDmPUU5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krTiPob7hp98VSDmPUU5-17" target="krTiPob7hp98VSDmPUU5-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="krTiPob7hp98VSDmPUU5-17" value="FMC MRN Lookup" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="140" y="670" width="120" height="60" as="geometry" />
+        <mxCell id="krTiPob7hp98VSDmPUU5-17" value="FMC MRN Lookup&lt;br&gt;*Using EMPI service&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="660" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="krTiPob7hp98VSDmPUU5-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="krTiPob7hp98VSDmPUU5-0" target="krTiPob7hp98VSDmPUU5-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -124,17 +124,17 @@
             <mxPoint x="210" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="krTiPob7hp98VSDmPUU5-28" value="Calculate Equality" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="340" y="770" width="120" height="60" as="geometry" />
+        <mxCell id="krTiPob7hp98VSDmPUU5-28" value="Calculate Equality for Demographics and Insurance&lt;br&gt;100% if comparison fields are all equal&lt;br&gt;0% if matches are different" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="265" y="800" width="270" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="fJmqL8O2HsT3Kp6ueDjJ-18" value="&lt;div&gt;&lt;span&gt;Matched Patients Page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Displays matched patient data grouped by FMC MRN that has an equality value &amp;lt; 100%.&amp;nbsp; For each patient demographics and insurance item allows users to select to use the Acumen source, eCube source, or Ignore.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="130" y="850" width="240" height="140" as="geometry" />
+        <mxCell id="fJmqL8O2HsT3Kp6ueDjJ-18" value="&lt;div&gt;&lt;span&gt;Matched Patients Page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Displays matched patient data grouped by FMC MRN that has an equality value &amp;lt; 100%.&amp;nbsp; For each patient demographics and insurance item allows users to select to use the Acumen source, eCube source, or Ignore.&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="940" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="LChZrOZhlxOUSHPAm20b-0" value="&lt;div&gt;&lt;span&gt;Unmatched Patients Page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Displays patient data that exists in Acumen 1.0 and does not have a matching patient in eCube&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="850" width="230" height="140" as="geometry" />
+        <mxCell id="LChZrOZhlxOUSHPAm20b-0" value="&lt;div&gt;&lt;span&gt;Unmatched Patients Page&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Displays patient data that exists in Acumen 1.0 and does not have a matching patient in eCube&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="940" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="LChZrOZhlxOUSHPAm20b-3" value="Export&lt;br&gt;&lt;br&gt;Exports an excel file with sheets containing:&lt;br&gt;Sheets with raw demographics and insurance data for all patients that are in Acumen 1.0 for the practice.&amp;nbsp;&lt;br&gt;Sheet with user selection values for any Demographics or Insurance appearing on the matched patient lists" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="251" y="1000" width="326" height="120" as="geometry" />
+          <mxGeometry x="251" y="1090" width="326" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
