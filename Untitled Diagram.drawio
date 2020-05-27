@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T14:36:26.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="gJHd8TrouKDwDpo_0nUy" version="13.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-27T14:38:22.122Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="1p5ZodbTB4A-YOZiwHm1" version="13.1.4" type="github">
   <diagram id="d-ELLbdBU_Qf9tfamwvt" name="Password Reset Workflow">
     <mxGraphModel dx="1673" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-9" value="2.0 User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="16" y="80" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="xTq1jOs8BwpGX4ZQImrz-11" value="2.0 Extensions&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;u&gt;Password Reset Request Page&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Check Email Message" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-11" value="2.0 Extensions&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;u&gt;Password Reset Request Page&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Resent Link sent to email Message" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="375" width="185" height="72" as="geometry" />
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-13" target="xTq1jOs8BwpGX4ZQImrz-23" edge="1">
