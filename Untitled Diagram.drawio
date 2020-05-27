@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T14:32:35.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="95WxlExHIusovxljw1EA" version="13.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-27T14:35:53.795Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="yOP0G57GbMuJ_LAZjtsb" version="13.1.4" type="github">
   <diagram id="d-ELLbdBU_Qf9tfamwvt" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="896" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,13 +10,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-1" value="Netscailer Login&lt;br&gt;Forgot Password Link" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="80" y="80" width="140" height="60" as="geometry" />
+          <mxGeometry x="53" y="80" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-4" target="xTq1jOs8BwpGX4ZQImrz-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-4" value="2.0 Extensions &lt;br&gt;&lt;b&gt;&lt;u&gt;Password Reset Request Page&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Reset Form" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="559" y="71" width="183.75" height="80" as="geometry" />
+          <mxGeometry x="559" y="70" width="183.75" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-5" target="xTq1jOs8BwpGX4ZQImrz-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="564.625" y="321" width="172.5" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-9" value="2.0 User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="43" y="80" width="30" height="60" as="geometry" />
+          <mxGeometry x="16" y="80" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-11" value="2.0 Extensions&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;u&gt;Password Reset Request Page&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Check Email Message" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="270" y="375" width="185" height="72" as="geometry" />
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-22" value="2.0 Extensions Reset Password Email" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="80" y="750" width="140" height="60" as="geometry" />
+          <mxGeometry x="53" y="750" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xTq1jOs8BwpGX4ZQImrz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-23" target="xTq1jOs8BwpGX4ZQImrz-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -72,7 +72,7 @@
           <mxGeometry x="271.25" y="601" width="182.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-1" value="2.0 User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="43" y="750" width="30" height="60" as="geometry" />
+          <mxGeometry x="16" y="750" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-2" target="AxbIXuEYecjZlMj8pC54-4">
           <mxGeometry relative="1" as="geometry" />
@@ -83,7 +83,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-2" value="Token parameter validated,&lt;br&gt;with Valid Signing Key,&lt;br&gt;within Expiration Date,&lt;br&gt;with token in DB" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="735" width="190" height="90" as="geometry" />
+          <mxGeometry x="267.5" y="735" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-3" target="AxbIXuEYecjZlMj8pC54-13">
           <mxGeometry relative="1" as="geometry">
@@ -91,10 +91,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-3" value="2.0 Extensions&lt;br&gt;Password Reset Confirm Page&lt;br&gt;Reset Password Form:&lt;br&gt;New Password&lt;br&gt;Confirm Password&lt;br&gt;(hidden) Token" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="538.13" y="735" width="190" height="90" as="geometry" />
+          <mxGeometry x="537.9999999999998" y="735" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-4" value="2.0 Extensions&amp;nbsp;&lt;br&gt;&lt;b&gt;&lt;u&gt;Password Reset Confirm Page&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Error Message:&lt;br&gt;Token Invalid&lt;br&gt;Token has expired&lt;br&gt;Token has already been used" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="276.25" y="912" width="197.5" height="125" as="geometry" />
+          <mxGeometry x="263.75" y="912" width="197.5" height="125" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-6" value="Token Invalid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="377" y="873" width="40" height="20" as="geometry" />
@@ -102,25 +102,27 @@
         <mxCell id="AxbIXuEYecjZlMj8pC54-11" value="Token&amp;nbsp;&lt;br&gt;Valid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="750" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="AxbIXuEYecjZlMj8pC54-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-12">
+        <mxCell id="AxbIXuEYecjZlMj8pC54-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-34">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="729.69" y="1175" as="sourcePoint" />
             <mxPoint x="800" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AxbIXuEYecjZlMj8pC54-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-12" target="AxbIXuEYecjZlMj8pC54-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="AxbIXuEYecjZlMj8pC54-12" value="Token Re-Validated,&lt;br&gt;Password Re-Validated&lt;br&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="536.5699999999999" y="1120" width="193.12" height="110" as="geometry" />
+        <mxCell id="AxbIXuEYecjZlMj8pC54-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-34" target="AxbIXuEYecjZlMj8pC54-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633.1300000000001" y="1230" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-26" target="AxbIXuEYecjZlMj8pC54-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-26" value="AD User Acquired&lt;br&gt;AD Password Updated&lt;br&gt;Token marked as used &amp;amp; deleted" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="536.57" y="1310" width="193.12" height="80" as="geometry" />
+          <mxGeometry x="536.4399999999998" y="1310" width="193.12" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="AxbIXuEYecjZlMj8pC54-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-13" target="AxbIXuEYecjZlMj8pC54-12">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="AxbIXuEYecjZlMj8pC54-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-13" target="AxbIXuEYecjZlMj8pC54-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="633.1300000000001" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AxbIXuEYecjZlMj8pC54-13" target="AxbIXuEYecjZlMj8pC54-3">
           <mxGeometry relative="1" as="geometry">
@@ -132,22 +134,25 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-13" value="Form Validation:&lt;br&gt;Password entries match,&lt;br&gt;Password &amp;gt; 8= char&lt;br&gt;Password includes &lt;br&gt;&amp;gt;= 1 upper &lt;br&gt;&amp;gt;= 1 lower &lt;br&gt;&amp;gt;= 1 numeric" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="536.5699999999999" y="910" width="193.12" height="130" as="geometry" />
+          <mxGeometry x="536.4400000000003" y="910" width="193.12" height="130" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-15" value="Form Valid,&lt;br&gt;submit enabled" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="638.13" y="1070" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-21" value="Form Invalid,&lt;br&gt;error message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="860" width="90" height="20" as="geometry" />
+          <mxGeometry x="712" y="847" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-24" value="Invalid" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1080" width="40" height="20" as="geometry" />
+          <mxGeometry x="752" y="1136" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-28" value="Valid Token" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="1260" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AxbIXuEYecjZlMj8pC54-29" value="2.0 Extensions&lt;br&gt;&lt;b&gt;&lt;u&gt;Password Reset Confirm Page&lt;br&gt;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;Password Updated Message&lt;br&gt;Link to Netscailer Login" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="276.25" y="1300" width="200" height="100" as="geometry" />
+          <mxGeometry x="262.5" y="1300" width="200" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AxbIXuEYecjZlMj8pC54-34" value="&lt;span&gt;Re-Validate&lt;br&gt;&lt;/span&gt;Token and &lt;br&gt;Password" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="556" y="1106" width="154" height="125" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
