@@ -1,1 +1,77 @@
-<mxfile host="app.diagrams.net" modified="2020-05-27T14:13:22.261Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="0L7vaHHnwdiD4M3K45B2" version="13.1.4" type="github"><diagram id="d-ELLbdBU_Qf9tfamwvt" name="Page-1">5Vrbcts2EP0aTZ+q4V3yoyXLaadO7FZpc3mDSJhEDBIsCEZSvj4LErxApGR6LClq4/GMicUCgnDO7h6AHtnzePOGozR6ywJMR5YRbEb2zciyTMeyRvLXCLalZeIpQ8hJoJwaw5J8w8poKGtOApxpjoIxKkiqG32WJNgXmg1xzta62yOj+qemKMQdw9JHtGv9QAIRldapazT23zAJo+qTTUP1xKhyVoYsQgFbt0z2YmTPOWOifIo3c0zl5lX7Uo673dNbL4zjRAwZsHn/r/nlPpvO1umbj87nP3+P+bdf7XKWr4jm6gurxYpttQM4gA1RTcZFxEKWILporDPO8iTA8mMMaDU+d4ylYDTB+AULsVXoolwwMEUipqoXvgHfflTji8Yn2Ri7VfNm0+682apWuVa5wL17okwZy7mPD2xExS3EQywO+Dk1ckB5zGIM64FxHFMkyFd9HUhxL6z96qEPjMAKLUPFiV2xZlvTSJ+iXJca1YAMD61lNKYC+hfQwOzQ4B0WmY8IxRzsdywkycjyKOzMbAUWL5RPt4yHTH6LB5Rla8YD6UqSpw6FGoJItNcREXiZogKPNaQNnQxqKZgLvDkMaxcGNWCq72bVXDcBbDrKFrWC1zP246bt+Eu317uIKDtitDgDo8V9ZbS8atedzq5bY0DYWGwETjLCkmwkU+Yuq1tk/gtnuOQ37FnHseqFMIgPUN44C+VddwDn3TNyfvp/47w7kPOTH8l5t7Prf2dFCoevi3k/4aVHgmJg+Ly3fxFDHdjXeUt4JoPg3YEJ7lDLZYcDoIpS+Zhy5uMsez5WVsh/Cgte3OeCkgQfMYbsydjV6/BVTxhNekrH1anCyOwi+h+Po8nAODLtk0gtD6qADrI7PbPYmvy0kO6Jv1dC6rje2NIxdc4soLuQziPsP8mEe33TmxQfmUzL9zyEz2sycI8jSoJyZhIggeWMIkLiCJnaQ7HMrckqSws6vCRt84jFq3xAuj5KWu7Aa1t9ebkO7HZmNnej+2ip+WqPviwr7p46l8f02heAvT2Tm0J8iFi0wvSBZUSAJgWXFROCxeBAZcesrndzRuU4mM1+LH5ac1xTEsqxgu3sPyuL5Ly+HjGOA4pjPyc37XOesMzuCbYr9p8j/GDlX8S2nLyMN+MtKJfC8QcfAuAUoIdJ3ymgT76cDBfrMuRLfcFUN85/wWQPLJLWaXSP45nj6dSof0yNKZ5zZg3UvXhcYj/nsgS+Z084gb8+x1DwZDSWtVI7p+yGpOVISgMIEq9NSjgqsmmfawapsph2TSAoLOMPvP0H5VTszdkXcTZxJHw6ZkZPdAPKVk8VPFkRNLvn/JYK6Z4ONVHRqJQKm8qQV4aA7ebtGAk/ao2FZee7w8FWT6lQLmRYb2kGUISOYyY4cLCqtwmTQM4eCaU7JqSqrl+crnvKcUyCoMhgfcTRs9oROOLZ+h2Qa/cQxOpJ/9bJ2NHVSEdnh5HIO+hhXBgV72UK+uRpkwF+Am44did/2F4PPcxz0qMSA4evaBstVsszRaK9cus8rxk8Pdwm7sBwO53auoybheZ1XiOwPrX7Tq+2rKFq60RXEnbnKtHdjaITKyyrq7Cq48oSF0sVTGW9X7LWWUa+6CsTokqOXIVf2oQfLV7ygatP84AkoUSkUm+iVG8XLKUsdxebfiV1HBkFzeYdfwlu858S9uI7</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-05-27T14:14:13.647Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36" etag="BkRcEc4lsKmGLTLHAWjK" version="13.1.4" type="github">
+  <diagram id="d-ELLbdBU_Qf9tfamwvt" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-1" target="xTq1jOs8BwpGX4ZQImrz-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-1" value="Netscailer Login&lt;br&gt;Forgot Password Link" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="80" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-4" target="xTq1jOs8BwpGX4ZQImrz-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-4" value="2.0 Extensions &lt;br&gt;Password Reset Page&lt;br&gt;Reset Form" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="550" y="80" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-5" target="xTq1jOs8BwpGX4ZQImrz-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-5" value="User enters &lt;br&gt;Username, &lt;br&gt;Email, &lt;br&gt;First Name, &lt;br&gt;Last Name" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="537.5" y="190" width="170" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-7" target="xTq1jOs8BwpGX4ZQImrz-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="622.5" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-7" target="xTq1jOs8BwpGX4ZQImrz-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="456.25" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-7" value="Checks AD &lt;br&gt;for Org/Username &lt;br&gt;and validates that &lt;br&gt;Email, &lt;br&gt;First Name,&amp;nbsp;&lt;br&gt;Last Name" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="536.25" y="320" width="172.5" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-9" value="2.0 User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="43" y="80" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-11" value="2.0 Extensions&amp;nbsp;&lt;br&gt;Password Reset Page&lt;br&gt;Check Email Message" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="255" y="380" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-13" target="xTq1jOs8BwpGX4ZQImrz-23" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="461.8800000000001" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-13" value="Secure Token created for Username,&lt;br&gt;24 hour expiration,&lt;br&gt;signed with KeyVault" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="541.88" y="600" width="161.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-18" value="Email, First Name, Last Name &lt;b&gt;&lt;u&gt;do&amp;nbsp;match &lt;/u&gt;&lt;/b&gt;with AD User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="630" y="530" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-19" value="Email, First Name, Last Name &lt;b&gt;&lt;u&gt;do not&lt;/u&gt;&lt;/b&gt; match up with AD User" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="431.88" y="360" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-22" value="2.0 Extensions Reset Password Email" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="750" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xTq1jOs8BwpGX4ZQImrz-23" target="xTq1jOs8BwpGX4ZQImrz-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="337.5" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xTq1jOs8BwpGX4ZQImrz-23" value="Email Sent to User&#39;s Email in AD with reset password link including secure token" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
+          <mxGeometry x="257.5" y="600" width="165" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AxbIXuEYecjZlMj8pC54-1" value="2.0 User" style="shape=umlActor;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="43" y="750" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
